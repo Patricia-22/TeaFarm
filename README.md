@@ -1,1 +1,2 @@
 # TeaFarm
+The current system has led to the defrauding of farmers and the lack of accountability by cooperates. These agencies miss information within their systems due to costly errors such as data loss and faulty report production. The information system that was developed has therefore helped to foster a transparent environment for farmers and other members in the tea supply chain for purposes of accountability and give the farmers a sense of security bykeeping them informed of the processes pertaining to their sale.
